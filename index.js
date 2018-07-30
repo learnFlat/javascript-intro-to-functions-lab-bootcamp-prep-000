@@ -8,4 +8,3 @@ function sayHiToGrandma(string) {
   }
 }
 
-function 
