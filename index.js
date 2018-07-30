@@ -7,7 +7,7 @@ function sayHiToGrandma(string) {
     return 'I love you, too.'
   }
   if (string.isUpperCase()) {
-    return 
+    return 'YES INDEED!'
   }
 }
 
