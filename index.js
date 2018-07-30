@@ -4,11 +4,11 @@ function shout(string) {
 
 function logShout(string) {
   console.log(string.toUpperCase)
-  console.log(string.toLowerCase)
+
 }
 
 function logWhisper(string) {
-  console.log(string.toUpperCase)
+
   console.log(string.toLowerCase)
 }
 
